@@ -249,6 +249,3 @@ These were run concurrently to observe scheduling behavior using tools like top.
 
 The experiment demonstrates that the Linux scheduler effectively balances fairness and performance. CPU-bound processes utilize available CPU resources efficiently, while I/O-bound processes are scheduled dynamically based on readiness.
 
-## Conclusion
-
-This project demonstrates core OS concepts including process isolation, kernel interaction, IPC, scheduling, and resource management. The system successfully manages multiple containers while enforcing limits and maintaining stability.
